@@ -42,6 +42,4 @@ export const config: Config = {
             icon: EnvelopeSimpleIcon,
         },
     ],
-    vCard: {
-    },
 };
